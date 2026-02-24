@@ -1,0 +1,43 @@
+        header {
+          margin: 20px;
+          padding: 20px;
+          border-radius: 12px;
+          background-color: rgba(148, 144, 173, 0.8);
+          color: #0f1e48;
+        }
+        nav ul {
+          padding: 0;
+          gap: 15px;
+        }
+        h2 {
+          background-color: rgb(76, 58, 124);
+          color: white;
+          padding: 10px;
+          border-radius: 8px;
+        }
+        img {
+          box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+        .aboutTitle {
+          background-color: rgb(58, 124, 88);
+          color: white;
+          padding: 10px;
+          border-radius: 8px;
+        }
+        table {
+          width: 80%;
+          border-collapse: collapse;
+          margin: 10px auto;
+          border: 2px solid #4f4f4f;
+        }
+
+        th {
+          background-color: #d9d9d9;
+        }
+
+        th,
+        td {
+          border: 1px solid #8a8a8a;
+          padding: 8px 10px;
+          text-align: left;
+        }
